@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-LinkedIn: [Your LinkedIn URL]
-Email: [Your Email]
-Twitter: [Your Twitter Handle]
+LinkedIn: https://www.linkedin.com/in/anirudh-kaushik-2k4/
+Email: anirudhsharma9893@gmail.com
+Twitter: https://twitter.com/Anirudh8760
 
 <!---
 Anirudh1705/Anirudh1705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
