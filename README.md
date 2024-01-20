@@ -2,9 +2,9 @@
 - 👀 I’m interested in Collaborating and learning new skills
 - 🌱 I’m currently learning DSA and Web Development
 - 📫 How to reach me ...
-LinkedIn: https://www.linkedin.com/in/anirudh-kaushik-2k4/
-Email: anirudhsharma9893@gmail.com
-Twitter: https://twitter.com/Anirudh8760
+- LinkedIn: https://www.linkedin.com/in/anirudh-kaushik-2k4/
+- Email: anirudhsharma9893@gmail.com
+- Twitter: https://twitter.com/Anirudh8760
 
 <!---
 Anirudh1705/Anirudh1705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
