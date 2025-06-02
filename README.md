@@ -2,7 +2,7 @@
 - 👀 I’m interested in Collaborating and learning new skills
 - 🌱 I’m currently learning DSA and Web Development
 - 📫 How to reach me ...
-- LinkedIn: https://www.linkedin.com/in/anirudh-kaushik-2k4/
+- LinkedIn: https://www.linkedin.com/in/anirudh8760
 - Email: anirudhsharma9893@gmail.com
 - Twitter: https://twitter.com/Anirudh8760
 
