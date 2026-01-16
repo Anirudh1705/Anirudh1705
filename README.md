@@ -20,7 +20,9 @@
 <details open>
   <summary>📊 GitHub Stats</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anirudh1705&show_icons=true&theme=radical" width="600" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh1705&layout=compact&theme=radical&hide_border=true"
+/>
 
 </details>
 
